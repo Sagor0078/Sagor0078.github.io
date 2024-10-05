@@ -51,6 +51,7 @@ processing and efficient backend architecture.
  Machine Learning Engineering and Data Engineering. Additionally, I learned to build Machine Learning 
  platforms using Software Engineering principles, enhancing my skills in scalable and efficient ML
  infrastructure development.
+ - [DataTalksClub](https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html)
 
 ## LINKS
  - [Email](mailto://musagor78@gmail.com)
