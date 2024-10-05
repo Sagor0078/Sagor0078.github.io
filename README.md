@@ -1,6 +1,7 @@
 # ML | LLM Infra | Software Engineer(Python)
 
-#### Technical Skills: Python, JavaScript, Bash, Java, C, C++, Docker, CI/CD Pipeline, Git, Github Actions, Kubernetes, Terraform, MLflow, Apche Spark, FastAPI(Python), Flask(Python), Nginx, RESTful API, PostgreSQL, MySQL, Vector DB(Chroma DB)
+#### Technical Skills: 
+Python, JavaScript, Bash, Java, C, C++, Docker, CI/CD Pipeline, Git, Github Actions, Kubernetes, Terraform, MLflow, Apche Spark, FastAPI(Python), Flask(Python), Nginx, RESTful API, PostgreSQL, MySQL, Vector DB(Chroma DB)
 
 ## Education 			        		
 - B.Sc(Engineering), Information and Communication Engineering
