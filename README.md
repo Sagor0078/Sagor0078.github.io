@@ -14,6 +14,14 @@ Python, JavaScript, Bash, Java, C, C++, Docker, CI/CD Pipeline, Git, Github Acti
 
 
 ## Projects
+
+### Readify-Backend
+[Readify-Backend](https://github.com/Sagor0078/Readify-Backend)
+
+ Developed a robust backend using FastAPI, SQLAlchemy, PostgreSQL, and Redis, with Docker Compose for 
+ deployment. Key features include JWT authentication, secure password hashing, email recovery, and thorough 
+ testing with Pytest. Tools like Postman and Alembic streamline API development and database migrations
+ 
 ### Building Chatbot with serverless functions
 [Building Chatbot with serverless functions](https://github.com/Sagor0078/makeing-chatbot-with-serverless-functions)
 
@@ -27,12 +35,6 @@ Python, JavaScript, Bash, Java, C, C++, Docker, CI/CD Pipeline, Git, Github Acti
  Led end-to-end execution of machine learning projects, from problem definition and data collection to model 
  training and deployment, ensuring robust solutions aligned with project objectives and stakeholder needs
 
-### Readify-Backend
-[Readify-Backend](https://github.com/Sagor0078/Readify-Backend)
-
- Developed a robust backend using FastAPI, SQLAlchemy, PostgreSQL, and Redis, with Docker Compose for 
- deployment. Key features include JWT authentication, secure password hashing, email recovery, and thorough 
- testing with Pytest. Tools like Postman and Alembic streamline API development and database migrations
  
 ## ACTIVITIES
 ### Competitive Programming Participant
