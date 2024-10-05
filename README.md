@@ -5,7 +5,7 @@ Python, JavaScript, Bash, Java, C, C++, Docker, CI/CD Pipeline, Git, Github Acti
 
 ## Education 			        		
 - B.Sc(Engineering), Information and Communication Engineering
-- Pabna University of Science and Technology at Bangladesh (_November 2024_)
+- Pabna University of Science and Technology at Pabna, Bangladesh (_November 2024_)
 
 ## Work Experience
 **Building ”Ask me PUST” Chatbot Applications (_April 2024 - Present_)**
