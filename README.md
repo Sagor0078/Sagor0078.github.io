@@ -64,8 +64,7 @@ processing and efficient backend architecture.
  - [Kaggle](https://www.kaggle.com/muhammadsagor/)
  - [GeeksforGeeks](https://www.geeksforgeeks.org/user/musagor78/)
 
- ## CERTIFICATIONS
- 
+## CERTIFICATIONS
  - [Software Engineer - HackerRank](https://www.hackerrank.com/certificates/iframe/4397b6f8358a)
  - [Problem Solving(Basic) - HackerRank](https://www.hackerrank.com/certificates/iframe/f9d772cf73f7)
  - [Problem Solving(Intermediate) -HackerRank](https://www.hackerrank.com/certificates/iframe/963c8f2034ac)
