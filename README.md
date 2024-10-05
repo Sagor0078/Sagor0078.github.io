@@ -63,7 +63,6 @@ processing and efficient backend architecture.
  - [LeetCode](https://leetcode.com/u/sagor78/)
  - [Kaggle](https://www.kaggle.com/muhammadsagor/)
  - [GeeksforGeeks](https://www.geeksforgeeks.org/user/musagor78/)
-
 ## CERTIFICATIONS
  - [Software Engineer - HackerRank](https://www.hackerrank.com/certificates/iframe/4397b6f8358a)
  - [Problem Solving(Basic) - HackerRank](https://www.hackerrank.com/certificates/iframe/f9d772cf73f7)
