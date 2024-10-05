@@ -9,8 +9,8 @@ Python, JavaScript, Bash, Java, C, C++, Docker, CI/CD Pipeline, Git, Github Acti
 
 ## Work Experience
 **Building ”Ask me PUST” Chatbot Applications (_April 2024 - Present_)**
-- Developed ’Ask me PUST’ chatbot application using Retrieval-Augmented Generation (RAG) approach, Gem-ini --- API, and FastAPI, enhancing user interaction through advanced natural language processing and efficient
-- backend architecture.
+- Developed ’Ask me PUST’ chatbot application using Retrieval-Augmented Generation (RAG) approach, Gem-ini --- API, and FastAPI, enhancing user interaction through advanced natural language  
+- processing and efficient backend architecture.
 
 
 ## Projects
